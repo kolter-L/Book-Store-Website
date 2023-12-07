@@ -1,7 +1,6 @@
 
 import mysql.connector as sql
 
-#can this change?
 
 conn = sql.connect(
   host="localhost",
